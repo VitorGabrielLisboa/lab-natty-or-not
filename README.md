@@ -1,51 +1,25 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Ebook: O Uso Sustentável de Inteligência Artificial nas Profissões do Futuro?
+<div align="center">
+  <img src="/assets/img1.png" alt="Banner" title="Banner">
+</div>
+> ⚠️ Esse Projeto foi feito para ser entregue ao Bootcamp: Fundamentos de IA para Devs, na Plataforma da [DIO](dio.me)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criei um Ebook com IA, onde o objetivo do mesmo é abordar o uso sustentável da IA nas profissões contemporâneas 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- [ChatGPT](https://chat.openai.com/): Para roteiro e texto;
+- [LeonardoAI](https://leonardo.ai/): Para criar as imagens
+- [Canva](https://www.canva.com/pt_br/): Para formatar o Ebook
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Eu pedi para o ChatGPT organizar minhas ideias, então montei um prompt que valorizasse o resultado textual do ebook e depois revisei manualmente para melhor compreensão. Com o texto pronto eu comecei a editar o formato do Ebook no Canva, ao mesmo passo que eu ultilizava o Leonardo.AI para criar imagens que combinariam com o estilo do Ebook.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+<div align="center">
+    <h1><a href="/assets/Inteligência Artificial Sustentável.pdf">Leia o Ebook !!!!</a> 
+</div>
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Foi uma boa experiência, que reafirma que as IA's não são ferramentas tão simples, que um bom prompt pode afetar o resultado de retorno de uma IA.
